@@ -1,0 +1,25 @@
+.file-upload {
+  background-color: pink;
+}
+
+.file-upload__wrapper {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 20px 20px 20px;
+}
+
+.file-upload__title {
+  font-weight: 800;
+}
+
+.file-upload__input {
+  border: 1px dashed black;
+  padding: 8px 0;
+}
+
+.file-upload__submit {
+  margin-top: 16px;
+  border: 1px solid black;
+  cursor: pointer;
+}
